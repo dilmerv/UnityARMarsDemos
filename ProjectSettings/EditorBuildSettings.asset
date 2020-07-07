@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/MARS/1.0.0/MARS Sample Templates/Templates/Game/Game_Simple.unity
     guid: e9e3e4e415d47d149a622673b24b1a66
+  - enabled: 1
+    path: Assets/Scenes/ImageTrackers.unity
+    guid: eeaffda17ddefaa449187fb01266e6ad
+  - enabled: 0
+    path: Assets/Scenes/BasicProxy.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ProxyWithAlignToCameraForce.unity
+    guid: 6a630b8b4d97748489b37e17baa12bb1
+  - enabled: 0
+    path: Assets/Scenes/ProxyWithDependency.unity
+    guid: 2b6c3d7728c43ec4688a80ecc1b8c330
+  - enabled: 0
+    path: Assets/Scenes/ProxyWithOccupiedRegionForces.unity
+    guid: 24682e418ca6f8041afac4d6205335a7
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 1dc5f849f3f5043c1878ad604030c85d,
       type: 2}
