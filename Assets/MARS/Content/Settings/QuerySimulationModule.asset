@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009c8dd9440085048b2e94606f06d41d, type: 3}
+  m_Name: QuerySimulationModule
+  m_EditorClassIdentifier: 
+  m_SimulationPollTime: 0.25
+  m_SimulationIsland: {fileID: 11400000, guid: ec4a7a5772f004f0a90d8df7d3ad44a0, type: 2}
+  m_SimulatedDiscoveryIsland: {fileID: 11400000, guid: 8bbbc60efbf5b4907881baf0bd3fa651,
+    type: 2}

@@ -1,0 +1,24 @@
+{
+    "name": "Unity.MARS.Content.Samples",
+    "references": [
+        "GUID:519a0499ccff9c445bffcfd12430817d",
+        "GUID:408226d2799e61548b8318afa77b9abb",
+        "GUID:ef7f6b716a264b049993a584d963484c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.mars",
+            "expression": "0.9.0",
+            "define": "INCLUDE_MARS"
+        }
+    ],
+    "noEngineReferences": false
+}

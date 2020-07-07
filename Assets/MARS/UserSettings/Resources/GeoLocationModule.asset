@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87fbb8f1883ede84fb5cfc15c756f4a4, type: 3}
+  m_Name: GeoLocationModule
+  m_EditorClassIdentifier: 
+  m_CurrentLocation:
+    latitude: 0
+    longitude: 0
+  m_DesiredAccuracy: 100
+  m_UpdateDistance: 25
+  m_ContinuousUpdates: 0
+  m_UpdateInterval: 15
+  m_InitializationTimeout: 20

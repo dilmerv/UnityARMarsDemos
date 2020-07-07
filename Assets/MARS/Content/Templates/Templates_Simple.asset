@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46142128d6df6a848a8875847c59b959, type: 3}
+  m_Name: Templates_Simple
+  m_EditorClassIdentifier: 
+  m_Templates:
+  - name: Blank
+    scene: {fileID: 102900000, guid: d4f299601833b4364b6945e7535182b8, type: 3}
+    icon: {fileID: 2800000, guid: f9e454f0db8d44daa914028e0939b65d, type: 3}
+    environmentMode: 0
+  - name: Facemask
+    scene: {fileID: 102900000, guid: 4e2d99b0cca0e4b1ebf4bddcefa424ab, type: 3}
+    icon: {fileID: 2800000, guid: cf39f56a62e964ffc830ae354b6f4bc6, type: 3}
+    environmentMode: 1
+  - name: Tabletop
+    scene: {fileID: 102900000, guid: 71543e660ee284ecfa1aea01d6f386bd, type: 3}
+    icon: {fileID: 2800000, guid: 16bd2f6c76aba487393ae28a522e7db3, type: 3}
+    environmentMode: 0
+  - name: Miniature
+    scene: {fileID: 102900000, guid: 216f7118ecec0492bb55231b4c2934de, type: 3}
+    icon: {fileID: 2800000, guid: 16bd2f6c76aba487393ae28a522e7db3, type: 3}
+    environmentMode: 0

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19c608db4bd843045bcd9dd6d82aa8eb, type: 3}
+  m_Name: MarsUserGeoLocations
+  m_EditorClassIdentifier: 
+  m_UserGeoLocations:
+  - m_Location:
+      latitude: 37.7749
+      longitude: -122.4194
+    m_Name: San Francisco, United States
+  - m_Location:
+      latitude: 47.6062
+      longitude: -122.3321
+    m_Name: Seattle, United States
+  - m_Location:
+      latitude: 30.2672
+      longitude: -97.7431
+    m_Name: Austin, United States
+  - m_Location:
+      latitude: 40.4406
+      longitude: -79.9959
+    m_Name: Pittsburgh, United States
+  - m_Location:
+      latitude: 4.8087
+      longitude: -75.6906
+    m_Name: Pereira, Colombia
+  - m_Location:
+      latitude: 45.5017
+      longitude: -73.5673
+    m_Name: Montreal, Canada
+  - m_Location:
+      latitude: 51.4545
+      longitude: -2.5879
+    m_Name: Bristol, United Kingdom
+  - m_Location:
+      latitude: 52.1917
+      longitude: -1.7083
+    m_Name: Stratford-upon-Avon, United Kingdom
+  - m_Location:
+      latitude: 50.8225
+      longitude: -0.1372
+    m_Name: Brighton, United Kingdom
+  - m_Location:
+      latitude: 51.5074
+      longitude: -0.1278
+    m_Name: London, United Kingdom
+  - m_Location:
+      latitude: 48.8566
+      longitude: 2.3522
+    m_Name: Paris, France
+  - m_Location:
+      latitude: 45.1885
+      longitude: 5.7245
+    m_Name: Grenoble, France
+  - m_Location:
+      latitude: 55.6761
+      longitude: 12.5683
+    m_Name: Copenhagen, Denmark
+  - m_Location:
+      latitude: 52.52
+      longitude: 13.405
+    m_Name: Berlin, Germany
+  - m_Location:
+      latitude: 59.3293
+      longitude: 18.0686
+    m_Name: Stockholm, Sweden
+  - m_Location:
+      latitude: 54.8985
+      longitude: 23.9036
+    m_Name: Kaunas, Lithuania
+  - m_Location:
+      latitude: 60.1699
+      longitude: 24.9384
+    m_Name: Helsinki, Finland
+  - m_Location:
+      latitude: 54.6872
+      longitude: 25.2797
+    m_Name: Vilnius, Lithuania
+  - m_Location:
+      latitude: 1.3521
+      longitude: 103.8198
+    m_Name: Singapore, Singapore
+  - m_Location:
+      latitude: 37.5665
+      longitude: 126.978
+    m_Name: Seoul, South Korea
+  - m_Location:
+      latitude: 31.2304
+      longitude: 121.4737
+    m_Name: Shanghai, China
+  - m_Location:
+      latitude: 35.6804
+      longitude: 139.769
+    m_Name: Tokyo, Japan

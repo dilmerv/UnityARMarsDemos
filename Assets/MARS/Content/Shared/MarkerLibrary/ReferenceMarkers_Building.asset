@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d047b3ff28334c19afece99d54cfb46, type: 3}
+  m_Name: ReferenceMarkers_Building
+  m_EditorClassIdentifier: 
+  m_Markers:
+  - m_SpecifySize: 1
+    m_Size: {x: 4, y: 4}
+    m_Label: Marker_Centered
+    m_Texture: {fileID: 2800000, guid: e4127b1b956bfeb4cb0fa36e55ddab39, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5609834160562697009
+      m_GuidHigh: 10344302089685191810
+  - m_SpecifySize: 1
+    m_Size: {x: 4, y: 4}
+    m_Label: Marker_Fit
+    m_Texture: {fileID: 2800000, guid: 21759af1ea4a0144484a882cf338b33b, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5436787751656860092
+      m_GuidHigh: 8170480569219710620
+  - m_SpecifySize: 1
+    m_Size: {x: 4, y: 4}
+    m_Label: Marker_TopLeft
+    m_Texture: {fileID: 2800000, guid: 449717316d5064b4a8359308dfb48041, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5539890632135913777
+      m_GuidHigh: 1240676248993397134
+  - m_SpecifySize: 1
+    m_Size: {x: 4, y: 4}
+    m_Label: Marker_TopRight
+    m_Texture: {fileID: 2800000, guid: 8388d1de3d64a654483ac70994814215, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5536663522865646068
+      m_GuidHigh: 14782391286211987865
+  - m_SpecifySize: 1
+    m_Size: {x: 4, y: 4}
+    m_Label: Marker_BottomLeft
+    m_Texture: {fileID: 2800000, guid: c14ec6bb954aef147801b39f4b831b02, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5354159551369081286
+      m_GuidHigh: 16133884580224911783
+  - m_SpecifySize: 1
+    m_Size: {x: 4, y: 4}
+    m_Label: Marker_BottomRight
+    m_Texture: {fileID: 2800000, guid: b0be22162a9d95b48961cb4c3df908ee, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5108912880357115900
+      m_GuidHigh: 9001912247474086062

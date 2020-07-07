@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1276f70a268824caeb9a1877c01d2e, type: 3}
+  m_Name: MARSUserPreferences
+  m_EditorClassIdentifier: 
+  m_HighlightedSimulatedObjectColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  m_ConditionFailTextColor: {r: 1, g: 0, b: 0, a: 1}
+  m_ExtractPlanesOnSave: 0
+  m_ScaleEntityPositions: 1
+  m_ScaleEntityChildren: 0
+  m_ScaleSceneAudio: 0
+  m_ScaleSceneLighting: 0
+  m_ScaleClippingPlanes: 1
+  m_RestrictCameraToEnvironmentBounds: 1
+  m_TintImageMarkers: 0
+  m_ElectiveExtensionsReportsErrors: 0

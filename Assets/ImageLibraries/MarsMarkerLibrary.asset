@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d047b3ff28334c19afece99d54cfb46, type: 3}
+  m_Name: MarsMarkerLibrary
+  m_EditorClassIdentifier: 
+  m_Markers:
+  - m_SpecifySize: 1
+    m_Size: {x: 0.25, y: 0.35}
+    m_Label: Magic Leap Rocket
+    m_Texture: {fileID: 2800000, guid: 8bcdf5e139a49bd40bb126101e784ddd, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5054444151462586232
+      m_GuidHigh: 17392153594500427676
+  - m_SpecifySize: 1
+    m_Size: {x: 0.25, y: 0.25}
+    m_Label: Unity Logo
+    m_Texture: {fileID: 2800000, guid: 104b510b242e32d43b026db1281ceb92, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5189792691686060672
+      m_GuidHigh: 8881935259107612349
